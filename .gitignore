@@ -1,14 +1,4 @@
-blend_py5.csv
-blend_py6.csv
-forest_py5.csv
-forest_py6.csv
-gradient boost_py5.csv
-gradient boost_py6.csv
-lasso_py5.csv
-lasso_py6.csv
-ridge_py5.csv
-ridge_py6.csv
-svm_py5.csv
-svm_py6.csv
-xgboost_py5.csv
-xgboost_py6.csv
+house_project_feature6.ipynb
+house_project_feature5.ipynb
+test.csv
+train.csv
